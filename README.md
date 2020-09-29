@@ -1,6 +1,6 @@
 # BLACK_JACK
-PYTHON PROJECT
-Creating a Complete BlackJack Card Game in Python.
+
+Created a Complete BlackJack Card Game in Python.
 
 Here are the requirements:
 
